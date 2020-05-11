@@ -1,0 +1,192 @@
+/*****************************************************************TAG SELECTORS**********************************************************************************/
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: black;
+    height: 100%;
+}
+h3{
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+}
+hr{
+border-style: solid none none;
+border-width: 1px;
+color: grey;
+}
+img{
+    height: 200px;
+    width: 200;
+}
+
+
+/********************************************************************HEADER**************************************************************************************/
+.dk{
+    border: solid;
+    display: inline-block;
+    margin: 35px;
+    padding: 2px;
+    font-size: 25px;
+
+}
+
+.hobbies{
+    padding: 17px 40px 17px 40px;
+}
+.exp{
+    padding: 17px 40px 17px 40px;
+
+}
+.edu{
+    padding: 17px 40px 17px 40px;
+}
+.home{
+    padding: 17px 40px 17px 40px;
+}
+
+.header{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+.head2{
+    display: inline;
+    position: absolute;
+    right: 535px;
+    margin: 40px auto 40px auto;
+    padding: 2px;
+}
+
+.navi:hover{
+    background-color: grey;
+}
+/*****************************************************************************HOME*******************************************************************************/
+.profilepicture{
+border-radius: 50%;
+margin: 0 auto 0 auto;
+display: block;
+}
+.pg1txt{
+    text-align: center;
+}
+.middle-container{
+    padding-top: 200px;
+    padding-bottom: 700px;
+    background-image: url(homeblackimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dhruvname{
+    font-size: 40px;
+    color: black;
+}
+.dhruvquote{
+    font-style: italic;
+    color: black;
+}
+/**************************************************************************EDUCATION**********************************************************************************/
+.middle-container2{
+    text-align: center;
+    line-height: 3;
+}
+.viitimg{
+    float: left;
+    margin-right: 80px;
+}
+.viitlink{
+font-weight: bold;
+color: powderblue;
+font-size: 20px;
+}
+.bishopsimg{
+    float: right;
+    margin-left: 30px;
+}
+.bishopslink{
+display: block;
+font-weight: bold;
+color: powderblue;
+font-size: 20px;
+}
+
+.edu-row{
+width: 50%;
+text-align: left;
+line-height: 1;
+margin: 200px auto 200px auto;
+}
+
+
+
+/*****/
+.pen{
+    padding-top: 300px;
+    padding-bottom: 400px;
+    text-align: center;
+    font-size: 50px;
+}
+.top-container-edu{
+    background-image: url(blackthemephoto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.top-container-exp{
+    background-image: url(expblackimage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+/**************************************************************************EXPERIENCE*********************************************************************************/
+
+.al{
+    margin: 300px auto 300px auto;
+}
+.experience{
+    padding: 30px 0 0;
+
+}
+
+/**************************************************************************FOOTER*************************************************************************************/
+
+.footer1{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
+
+}
+.footer2{
+    width: 100%;
+    color: white;
+
+}
+
+.cprt{
+    display: inline;
+    padding: 0 30px 0 30px;
+
+}
+.linkedin{
+    display: inline;
+    padding: 0 30px 0 30px;
+
+}
+.foot2{
+    text-align: center;
+    display: block;
+    padding: 10px;
+}
